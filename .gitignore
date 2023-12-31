@@ -1,0 +1,7 @@
+.DS_Store
+/node_modules
+/slim-seo-schema
+/vendor
+/public/css
+/public/js
+/local-config.php
